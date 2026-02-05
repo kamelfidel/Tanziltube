@@ -1,0 +1,1 @@
+{\n  "name": "tanziltube",\n  "version": "1.0.0",\n  "description": "A YouTube video downloader with premium features",\n  "scripts": {\n    "start": "node index.js",\n    "test": "echo 'Error: no test specified' && exit 1"\n  }\n}
