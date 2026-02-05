@@ -1,0 +1,19 @@
+# Node.js 
+/node_modules/
+/.pnp/*
+.pnp.js
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.env
+
+# Environment Variables
+.env
+
+# Sensitive Files
+*.pem
+*.key
+*.crt
